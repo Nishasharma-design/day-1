@@ -1,5 +1,5 @@
-- me and Nathan both have two siblings
-
+# Common-traits
+- me and Nathan both have two siblings.
 - me and Ceara both live in Melbourne
 - me and Petr both do not have kids
 - me and pooja both come from India
